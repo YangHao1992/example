@@ -1,1 +1,1 @@
-Some basic knowledge of c/c++.
+Some basic codes of c/c++.
